@@ -1,0 +1,16 @@
+th,td{
+    border: 2px solid black;
+}
+thead{
+background-color: rgb(191, 223, 251);
+}
+table{
+    width: 100%;
+}
+
+tfoot tr{
+    border: none;
+    margin: 0%;
+}
+
+

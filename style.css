@@ -1,0 +1,28 @@
+.hey{
+    text-align: center;
+    padding: 5px;  
+    background-color: rgb(48, 227, 66);
+    display: inherit;
+    
+}
+div{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    
+}
+input[type=submit]:hover {
+    background-color: #757575;
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 15px 15px;
+    margin: 8px 3px;
+    border: 2px solid #ede8e8;
+    border-radius: 5px;
+    box-sizing:border-box;
+}
+input[type=submit]{
+    background-color: azure;
+}
